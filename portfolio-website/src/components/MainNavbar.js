@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import { LinkContainer } from "react-router-bootstrap";
-import './Navbar.css';
+import './MainNavbar.css';
 
 
 function MainNavbar(){
@@ -21,7 +21,7 @@ function MainNavbar(){
                         <Nav className="me-auto">
                         <div className="Navbar-linkitem">
                             <LinkContainer to="/home">
-                                <Nav.Link>Home</Nav.Link>
+                                <Nav.Link href="home">Home</Nav.Link>
                             </LinkContainer>
                         </div>
                         <div className="Navbar-linkitem">
