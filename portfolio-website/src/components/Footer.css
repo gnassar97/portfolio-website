@@ -1,0 +1,14 @@
+.Footer {
+    background-color: #2d3036;
+    min-height: 10vh;
+    font-size: calc(10px + 1vmin);
+    color: white;
+  }
+
+.Footer-container {
+    display: flex;
+}
+
+.Footer-content{
+    margin: auto;
+}

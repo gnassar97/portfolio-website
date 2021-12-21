@@ -1,0 +1,17 @@
+.Home {
+    background-color: #282c34;
+    min-height: 90vh;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;;
+  }
+
+.Home-container {
+
+}
+
+.Home-content{
+    margin: auto;
+}

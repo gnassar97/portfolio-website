@@ -1,0 +1,14 @@
+.Projects {
+    background-color: #282c34;
+    min-height: 90vh;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.Projects-container {
+    display: flex;
+}
+
+.Projects-content{
+    margin: auto;
+}
